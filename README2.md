@@ -1,4 +1,4 @@
-#heading
+# heading
 
 There is no logic to this ;) 
 
@@ -7,5 +7,5 @@ There is no logic to this ;)
  -bus
  -plane
 
-##heading 2
-###heading 3
+## heading 2
+### sheading 3
